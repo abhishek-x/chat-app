@@ -1,5 +1,7 @@
 # Chat Platform 💬
 
+https://fullstack-chat-app.netlify.app/
+
 ![Cover Photo](Screenshot.png)
 
 ## Technologies Used
