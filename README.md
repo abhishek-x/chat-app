@@ -1,6 +1,6 @@
 # Chat Platform 💬
 
-https://fullstack-chat-app.netlify.app/
+Link: https://fullstack-chat-app.netlify.app/
 
 ![Cover Photo](Screenshot.png)
 
