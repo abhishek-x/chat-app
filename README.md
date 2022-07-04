@@ -4,8 +4,8 @@ Link: https://fullstack-chat-app.netlify.app/
 
 ## Description
 Built a chatting platform in which users can communicate with each other in real time.
-**Server Side:** Serves frontend files to the user, implement Web Sockets using socket.io and recieve message from user and broadcast it to all users in that room.
-
+- **Server Side:** Serves frontend files to the user, implement Web Sockets using socket.io and recieve message from user and broadcast it to all users in that room.
+- **Client Side:** Establish connection with socket.io running on out server, joining chat room by inputting name and room, and finally sending messages in the room.
 
 
 ![Cover Photo](Screenshot.png)
